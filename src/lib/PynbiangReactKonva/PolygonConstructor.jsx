@@ -30,6 +30,7 @@ export const PolygonConstructor = ({ scale, callBack, isMultiple, isEditing }) =
     });
     setnextPoint([]);
   }
+    
   };
   
   const handleClick = (e) => {
